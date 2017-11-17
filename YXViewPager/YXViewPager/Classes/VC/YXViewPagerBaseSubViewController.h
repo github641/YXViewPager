@@ -5,7 +5,11 @@
 //  Created by yixiang on 17/3/29.
 //
 //
-
+/* lzy171117注:
+ 自控制器需要继承。
+ 控制单个页面，
+ 获取主控制器传过来的数据。
+ */
 #import <UIKit/UIKit.h>
 #import "YXViewPagerEventDelegate.h"
 #import "YXViewPagerSubVcScrollDelegate.h"

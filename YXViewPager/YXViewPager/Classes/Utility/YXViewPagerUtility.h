@@ -5,7 +5,9 @@
 //  Created by yixiang on 17/3/29.
 //
 //
-
+/* lzy171117注:
+ 工具类主头文件
+ */
 #ifndef YXViewPagerUtility_h
 #define YXViewPagerUtility_h
 

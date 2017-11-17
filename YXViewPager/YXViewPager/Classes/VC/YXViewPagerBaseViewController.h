@@ -5,7 +5,12 @@
 //  Created by yixiang on 17/3/29.
 //
 //
-
+/* lzy171117注:
+ 主控制器需要继承
+ 用于配置子控制器的相关信息，
+ 配置顶部 指示器的相关信息，
+ 给自控制器传参数
+ */
 #import <UIKit/UIKit.h>
 @class YXViewPagerScrollView;
 

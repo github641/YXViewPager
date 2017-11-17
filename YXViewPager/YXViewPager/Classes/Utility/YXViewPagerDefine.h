@@ -5,7 +5,9 @@
 //  Created by yixiang on 17/3/29.
 //
 //
-
+/* lzy171117注:
+ 框架 通用宏定义
+ */
 #ifndef YXViewPagerDefine_h
 #define YXViewPagerDefine_h
 

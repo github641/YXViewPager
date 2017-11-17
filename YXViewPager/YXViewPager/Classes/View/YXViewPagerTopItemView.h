@@ -5,7 +5,9 @@
 //  Created by yixiang on 17/3/29.
 //
 //
-
+/* lzy171117注:
+ 每个指示器块 视图
+ */
 #import <UIKit/UIKit.h>
 #import "YXViewPagerItemViewModel.h"
 

@@ -5,7 +5,9 @@
 //  Created by yixiang on 2017/7/4.
 //
 //
-
+/* lzy171117注:
+ 每个页面的配置数据模型
+ */
 #import <Foundation/Foundation.h>
 
 @interface YXViewPagerConfigItemModel : NSObject

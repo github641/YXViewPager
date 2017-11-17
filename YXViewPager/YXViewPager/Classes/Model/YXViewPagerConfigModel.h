@@ -5,7 +5,12 @@
 //  Created by yixiang on 2017/7/4.
 //
 //
-
+/* lzy171117注:
+ 配置模型：
+ 顶部指示器整体配置。
+ 每个配置数据items的信息集合
+ 
+ */
 #import <Foundation/Foundation.h>
 #import "YXViewPagerConfigItemModel.h"
 

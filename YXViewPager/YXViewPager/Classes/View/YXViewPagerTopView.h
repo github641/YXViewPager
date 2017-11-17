@@ -5,7 +5,9 @@
 //  Created by yixiang on 17/3/29.
 //
 //
-
+/* lzy171117注:
+ 顶部指示器整体容器
+ */
 #import <UIKit/UIKit.h>
 
 typedef NS_ENUM(NSUInteger, YXViewPagerTopViewType) {
